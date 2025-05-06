@@ -5,4 +5,5 @@
 - Set autocompile
 - Choose network, wallet and click Deploy
 - Open contract page in Blockscout
+  
 🎉 Congrats! You have your own GM contract to interact yourself or share with friends!
